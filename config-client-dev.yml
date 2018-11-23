@@ -1,4 +1,5 @@
 info:
   profile: dev
+  developer: yuan
 server:
   port: 2002
