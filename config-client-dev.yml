@@ -1,6 +1,7 @@
 info:
   profile: dev
   developer: yuan
-  company: xxxhh
+  company: itikj.com
+  ver: 1.0
 server:
   port: 2002
